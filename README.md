@@ -41,12 +41,12 @@ This project also demonstrates secure authentication, scalable backend architect
 
 ### 🎯 Custom Interview & Strategy Plan Generation
 <p align="center">
-  <img src="./assets/image_ss_1.jpg" alt="Interview Plan Panel" width="85%">
+  <img src="./assets/image_ss_1.png" alt="Interview Plan Panel" width="85%">
 </p>
 
 ### 📝 AI-Generated Technical Interview Questions & Skill Gaps
 <p align="center">
-  <img src="./assets/image_ss_2.jpg" alt="Technical Questions Dashboard" width="85%">
+  <img src="./assets/image_ss_2.png" alt="Technical Questions Dashboard" width="85%">
 </p>
 
 ---
